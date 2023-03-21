@@ -2,3 +2,7 @@
 	path = 01_data/01_raw_data/01_Preliminary_Psychedelics_2p
 	url = /media/meng/Seagate Expansion Drive/datalad_datasets/01_Preliminary_Psychedelics_2p
 	datalad-id = e3242ce6-3a60-4675-9907-e254e10da86e
+[submodule "01_data/01_raw_data/02_Psychedelics_L5b_2p"]
+	path = 01_data/01_raw_data/02_Psychedelics_L5b_2p
+	url = /media/meng/Seagate Expansion Drive/datalad_datasets/02_Psychedelics_L5b_2p/
+	datalad-id = 19333440-abf2-41cd-a980-19f626ca8cef
