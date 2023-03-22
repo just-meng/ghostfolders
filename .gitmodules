@@ -10,3 +10,7 @@
 	path = 01_data/03_combined_data/01_Preliminary_Psychedelics_pandas
 	url = ./01_data/03_combined_data/01_Preliminary_Psychedelics_pandas
 	datalad-id = 44dd3bbd-1f88-473d-b99d-013103488a75
+[submodule "02_code/01_prism_somata"]
+	path = 02_code/01_prism_somata
+	url = ./02_code/01_prism_somata
+	datalad-id = 0437f3cb-e770-4ee3-9e45-69b51d48c34c
