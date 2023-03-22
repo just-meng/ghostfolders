@@ -20,11 +20,11 @@ Meng's PhD project on the effects of psychedelics on cortical circuits in vivo.
 This repository is the central place for the project. Data-management is done with [Datalad](https://www.datalad.org/) following the [YODA](http://handbook.datalad.org/en/latest/basics/101-127-yoda.html) principle. Datasets of different experiment, modality, and processing stage are treated as independent subdatasets. Collections of code used for a particular analysis are also treated as independent subdatasets.  
 
 The naming convention is ##_Exp_Name_datatype with two trailing digits indicating the order of experiment, followed by the name of experiment starting with capital letter, and the datatype in lower-case.
-- 01_data/01_raw_data/01_Preliminary_Psychedelics_2p
-- 01_data/01_raw_data/01_Preliminary_Psychedelics_bpod
-- 01_data/01_raw_data/02_Psychedelics_L5b_2p
-- 01_data/01_raw_data/02_Psychedelics_L5b_bpod
-- 01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p
+- 01_data/01_raw_data/01_Preliminary_Psychedelics_2p (source: scanimage-pc, remote: gin)
+- 01_data/01_raw_data/01_Preliminary_Psychedelics_bpod (source: laser-pc, remote: none)
+- 01_data/01_raw_data/02_Psychedelics_L5b_2p (source: scanimage-pc, remote: gin)
+- 01_data/01_raw_data/02_Psychedelics_L5b_bpod (source: laser-pc, remote: none)
+- 01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p (source: no longer available, remote: gin)
 - 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
 - 01_data/03_combined_data/01_Preliminary_Psychedelics_pandas
 - 01_data/03_combined_data/02_Psychedelics_L5b_pandas
