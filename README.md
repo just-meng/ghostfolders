@@ -21,14 +21,14 @@ This repository is the central place for the project. Data-management is done wi
 
 The naming convention is ##_Exp_Name_datatype with two trailing digits indicating the order of experiment, followed by the name of experiment starting with capital letter, and the datatype in lower-case.
 - 01_data/01_raw_data/01_Preliminary_Psychedelics_2p (source: scanimage-pc, remote: gin)
-- 01_data/01_raw_data/01_Preliminary_Psychedelics_bpod (source: laser-pc, remote: none)
+- 01_data/01_raw_data/01_Preliminary_Psychedelics_bpod (source: analysis-pc, remote: none)
 - 01_data/01_raw_data/02_Psychedelics_L5b_2p (source: scanimage-pc, remote: gin)
-- 01_data/01_raw_data/02_Psychedelics_L5b_bpod (source: laser-pc, remote: none)
-- 01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p (source: no longer available, remote: gin)
+- 01_data/01_raw_data/02_Psychedelics_L5b_bpod (source: laser-pc, remote: gin)
+- 01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p (source: gin, remote: gin)
 - 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
-- 01_data/03_combined_data/01_Preliminary_Psychedelics_pandas
+- 01_data/03_combined_data/01_Preliminary_Psychedelics_pandas (source: analysis-pc, remote:none)
 - 01_data/03_combined_data/02_Psychedelics_L5b_pandas
-- 02_code/01_prism_somata
+- 02_code/01_prism_somata (source:analysis-pc, remote:none)
 - 02_code/02_prism_somatodendritic
 
 ## Other information
