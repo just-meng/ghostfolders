@@ -14,3 +14,8 @@
 	path = 02_code/01_prism_somata
 	url = ./02_code/01_prism_somata
 	datalad-id = 0437f3cb-e770-4ee3-9e45-69b51d48c34c
+[submodule "01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p"]
+	path = 01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p
+	url = /media/meng/Seagate Expansion Drive/datalad_datasets/01_Preliminary_Psychedelics_suite2p/
+	datalad-id = c44b7cea-12e0-4fc5-9696-731f238ba458
+	datalad-url = /media/meng/Seagate Expansion Drive/datalad_datasets/01_Preliminary_Psychedelics_suite2p/
