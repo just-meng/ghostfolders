@@ -19,3 +19,7 @@
 	url = /media/meng/Seagate Expansion Drive/datalad_datasets/01_Preliminary_Psychedelics_suite2p/
 	datalad-id = c44b7cea-12e0-4fc5-9696-731f238ba458
 	datalad-url = /media/meng/Seagate Expansion Drive/datalad_datasets/01_Preliminary_Psychedelics_suite2p/
+[submodule "02_code/02_prism_soma_dendrite"]
+	path = 02_code/02_prism_soma_dendrite
+	url = ./02_code/02_prism_soma_dendrite
+	datalad-id = f5111334-56fb-4816-ad09-4de7179fa4c0
