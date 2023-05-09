@@ -27,3 +27,7 @@
 	path = 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
 	url = ./01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
 	datalad-id = 342b472d-4fce-47b8-8f51-e34da93cdc88
+[submodule "01_data/01_raw_data/01_Preliminary_Psychedelics_bpod"]
+	path = 01_data/01_raw_data/01_Preliminary_Psychedelics_bpod
+	url = ./01_data/01_raw_data/01_Preliminary_Psychedelics_bpod
+	datalad-id = fa24bca8-71a6-4f30-bd40-a3a0b174e916
