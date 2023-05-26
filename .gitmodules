@@ -12,7 +12,7 @@
 	datalad-id = 44dd3bbd-1f88-473d-b99d-013103488a75
 [submodule "02_code/01_prism_somata"]
 	path = 02_code/01_prism_somata
-	url = git@gin.g-node.org:/jwu/Meng_Psychedelics-02_code-01_prism_somata.git
+	url = git@gin.g-node.org:/jwu/code_prism_somata.git
 	datalad-id = 0437f3cb-e770-4ee3-9e45-69b51d48c34c
 [submodule "01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p"]
 	path = 01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p
@@ -20,7 +20,7 @@
 	datalad-id = c44b7cea-12e0-4fc5-9696-731f238ba458
 [submodule "02_code/02_prism_soma_dendrite"]
 	path = 02_code/02_prism_soma_dendrite
-	url = git@gin.g-node.org:/jwu/Meng_Psychedelics-02_code-02_prism_soma_dendrite.git
+	url = git@gin.g-node.org:/jwu/code_prism_soma_dendrite.git
 	datalad-id = f5111334-56fb-4816-ad09-4de7179fa4c0
 [submodule "01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p"]
 	path = 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
