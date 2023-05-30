@@ -8,7 +8,7 @@
 	datalad-id = 19333440-abf2-41cd-a980-19f626ca8cef
 [submodule "01_data/03_combined_data/01_Preliminary_Psychedelics_pandas"]
 	path = 01_data/03_combined_data/01_Preliminary_Psychedelics_pandas
-	url = git@gin.g-node.org:/jwu/Meng_Psychedelics-01_data-03_combined_data-01_Preliminary_Psychedelics_pandas.git
+	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_pandas.git
 	datalad-id = 44dd3bbd-1f88-473d-b99d-013103488a75
 [submodule "02_code/01_prism_somata"]
 	path = 02_code/01_prism_somata
