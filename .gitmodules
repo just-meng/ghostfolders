@@ -34,3 +34,6 @@
 	path = 01_data/01_raw_data/02_Psychedelics_L5b_bpod
 	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
 	datalad-id = 18972008-4baa-4943-803d-3f86b8cc9738
+[submodule "02_code/Cascade"]
+	path = 02_code/Cascade
+	url = https://github.com/HelmchenLabSoftware/Cascade.git
