@@ -3,9 +3,7 @@ Rename all files in a given directory. Run with 'datalad run' to leave the trace
 
 datalad run -m "Rename bpod files of mouse 230628C with the wrong date." \
 -i 01_data/01_raw_data/02_Psychedelics_L5b_bpod/230628C/2023-07-28_Lisuride/pre \
--i "2023-07-27" \
--i "2023-07-28" \
-"python 02_code/02_prism_soma_dendrite/rename.py {inputs}"
+python 02_code/02_prism_soma_dendrite/rename.py {inputs} "2023-07-27" "2023-07-28"
 """
 
 import os
