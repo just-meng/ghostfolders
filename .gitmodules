@@ -30,7 +30,3 @@
 	path = 01_data/01_raw_data/01_Preliminary_Psychedelics_bpod
 	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_bpod.git
 	datalad-id = fa24bca8-71a6-4f30-bd40-a3a0b174e916
-[submodule "01_data/01_raw_data/02_Psychedelics_L5b_bpod"]
-	path = 01_data/01_raw_data/02_Psychedelics_L5b_bpod
-	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
-	datalad-id = 18972008-4baa-4943-803d-3f86b8cc9738
