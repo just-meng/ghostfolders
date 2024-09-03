@@ -1,0 +1,6 @@
+240221F: Ketamine, LSD, Lisuride 
+240222G: Lisuride, Ketamine, LSD 
+240229K: LSD, Lisuride, Ketamine 
+240226H: LSD, Ketamine, Lisuride 
+240226I: Ketamine, Lisuride, LSD 
+240227J: Lisuride, Ketamine, LSD 
