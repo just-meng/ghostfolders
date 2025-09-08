@@ -2,3 +2,4 @@
 	id = 0fc2f3fc-353a-46b4-b1fe-b4a8fbbcad47
 [datalad "containers.2p"]
 	image = .datalad/environments/2p/image
+	cmdexec = singularity exec -B {{pwd}} {img} {cmd}
