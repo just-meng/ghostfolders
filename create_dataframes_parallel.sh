@@ -35,7 +35,7 @@ cd $source_ds
 
 # clone the container-dataset as a subdataset. Please see README for
 # instructions how to create a container dataset.
-datalad clone -d . "${container}" code/pipeline
+cp . "${container}" code/pipeline
 
 # Register the container in the top-level dataset.
 datalad containers-add \
