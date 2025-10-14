@@ -35,3 +35,8 @@
 	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
 	datalad-id = 18972008-4baa-4943-803d-3f86b8cc9738
 	datalad-url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
+[submodule "02_processed/L5b"]
+	path = 02_processed/L5b
+	url = ../../01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
+	datalad-id = 342b472d-4fce-47b8-8f51-e34da93cdc88
+	datalad-url = 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
