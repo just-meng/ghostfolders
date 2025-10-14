@@ -2,5 +2,3 @@
 **/.git* annex.largefiles=nothing
 * annex.largefiles=((mimeencoding=binary)and(largerthan=0))
 **/.git* annex.largefiles=nothing
-CHANGELOG.md annex.largefiles=nothing
-README.md annex.largefiles=nothing
