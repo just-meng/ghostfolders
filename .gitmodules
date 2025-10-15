@@ -40,3 +40,8 @@
 	url = ../../01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
 	datalad-id = 342b472d-4fce-47b8-8f51-e34da93cdc88
 	datalad-url = 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
+[submodule "02_processed/code"]
+	path = 02_processed/code
+	url = ../../02_code/02_prism_soma_dendrite
+	datalad-id = f5111334-56fb-4816-ad09-4de7179fa4c0
+	datalad-url = 02_code/02_prism_soma_dendrite
