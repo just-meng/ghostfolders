@@ -37,11 +37,9 @@
 	datalad-url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
 [submodule "02_processed/L5b"]
 	path = 02_processed/L5b
-	url = ../../01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
-	datalad-id = 342b472d-4fce-47b8-8f51-e34da93cdc88
-	datalad-url = 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
+	url = git@gin.g-node.org:/jwu/ds_processed_L5b.git
+	datalad-id = 2e4731cd-bf4a-4f17-82de-7e66f6b6dda7
 [submodule "02_processed/code"]
 	path = 02_processed/code
-	url = ../../02_code/02_prism_soma_dendrite
-	datalad-id = f5111334-56fb-4816-ad09-4de7179fa4c0
-	datalad-url = 02_code/02_prism_soma_dendrite
+	url = git@gin.g-node.org:/jwu/code_process2p.git 
+	datalad-id = 92d2f135-f3ac-4984-bde3-a65e8f9cf123
