@@ -1,11 +1,19 @@
-[submodule "01_data/01_raw_data/01_Preliminary_Psychedelics_2p"]
-	path = 01_data/01_raw_data/01_Preliminary_Psychedelics_2p
+[submodule "01_raw/Preliminary_2p"]
+	path = 01_raw/Preliminary_2p
 	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_2p.git
 	datalad-id = e3242ce6-3a60-4675-9907-e254e10da86e
-[submodule "01_data/01_raw_data/02_Psychedelics_L5b_2p"]
-	path = 01_data/01_raw_data/02_Psychedelics_L5b_2p
+[submodule "01_raw/Preliminary_bpod"]
+	path = 01_raw/Preliminary_bpod
+	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_bpod.git
+	datalad-id = fa24bca8-71a6-4f30-bd40-a3a0b174e916
+[submodule "01_raw/L5b_2p"]
+	path = 01_raw/L5b_2p
 	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_2p.git
 	datalad-id = 19333440-abf2-41cd-a980-19f626ca8cef
+[submodule "01_raw/L5b_bpod"]
+	path = 01_raw/L5b_bpod
+	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
+	datalad-id = 18972008-4baa-4943-803d-3f86b8cc9738
 [submodule "01_data/03_combined_data/01_Preliminary_Psychedelics_pandas"]
 	path = 01_data/03_combined_data/01_Preliminary_Psychedelics_pandas
 	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_pandas.git
@@ -26,11 +34,6 @@
 	path = 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
 	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_suite2p.git
 	datalad-id = 342b472d-4fce-47b8-8f51-e34da93cdc88
-[submodule "01_data/01_raw_data/02_Psychedelics_L5b_bpod"]
-	path = 01_data/01_raw_data/02_Psychedelics_L5b_bpod
-	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
-	datalad-id = 18972008-4baa-4943-803d-3f86b8cc9738
-	datalad-url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
 [submodule "02_processed/L5b"]
 	path = 02_processed/L5b
 	url = git@gin.g-node.org:/jwu/ds_processed_L5b.git
@@ -39,9 +42,11 @@
 	path = 02_processed/code
 	url = git@gin.g-node.org:/jwu/code_process2p.git 
 	datalad-id = 92d2f135-f3ac-4984-bde3-a65e8f9cf123
-[submodule "01_raw"]
-	path = 01_raw
-	url = ./01_raw
-	datalad-id = e3242ce6-3a60-4675-9907-e254e10da86e
 [submodule "01_raw/Preliminary_2p"]
-	datalad-url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_2p.git
+	path = 01_raw/Preliminary_2p
+	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_2p.git
+	datalad-id = e3242ce6-3a60-4675-9907-e254e10da86e
+[submodule "01_raw/Preliminary_bpod"]
+	path = 01_raw/Preliminary_bpod
+	url = ./01_raw/Preliminary_bpod
+	datalad-id = fa24bca8-71a6-4f30-bd40-a3a0b174e916
