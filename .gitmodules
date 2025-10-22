@@ -43,3 +43,9 @@
 	path = 02_processed/code
 	url = git@gin.g-node.org:/jwu/code_process2p.git 
 	datalad-id = 92d2f135-f3ac-4984-bde3-a65e8f9cf123
+[submodule "01_raw"]
+	path = 01_raw
+	url = ./01_raw
+	datalad-id = e3242ce6-3a60-4675-9907-e254e10da86e
+[submodule "01_raw/Preliminary_2p"]
+	datalad-url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_2p.git
