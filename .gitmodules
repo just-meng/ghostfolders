@@ -26,10 +26,6 @@
 	path = 01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p
 	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_suite2p.git
 	datalad-id = 342b472d-4fce-47b8-8f51-e34da93cdc88
-[submodule "01_data/01_raw_data/01_Preliminary_Psychedelics_bpod"]
-	path = 01_data/01_raw_data/01_Preliminary_Psychedelics_bpod
-	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_bpod.git
-	datalad-id = fa24bca8-71a6-4f30-bd40-a3a0b174e916
 [submodule "01_data/01_raw_data/02_Psychedelics_L5b_bpod"]
 	path = 01_data/01_raw_data/02_Psychedelics_L5b_bpod
 	url = git@gin.g-node.org:/jwu/ds_Psychedelics_L5b_bpod.git
