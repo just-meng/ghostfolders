@@ -1,5 +1,5 @@
 [submodule "01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p"]
-	path = 01_data/02_preprocessed_data/01_Preliminary_Psychedelics_suite2p
+	path = 02_processed/Preliminary
 	url = git@gin.g-node.org:/jwu/ds_Preliminary_Psychedelics_suite2p.git
 	datalad-id = c44b7cea-12e0-4fc5-9696-731f238ba458
 [submodule "01_data/02_preprocessed_data/02_Psychedelics_L5b_suite2p"]
